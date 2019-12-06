@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@conzian/vuetify@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@conzian/vuetify/-/vuetify-1.1.2.tgz#9adc33a62e5695cc29acad5af364a725c9ecc22c"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -1592,10 +1596,6 @@ verror@1.10.0:
 vue@^2.5.9:
   version "2.5.13"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.13.tgz#95bd31e20efcf7a7f39239c9aa6787ce8cf578e1"
-
-vuetify@^1.0.0-alpha.3:
-  version "1.0.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-1.0.0-alpha.3.tgz#60f1cb294ccf02d7daf59fe5240fa60fa25a549c"
 
 wide-align@^1.1.0:
   version "1.1.2"
